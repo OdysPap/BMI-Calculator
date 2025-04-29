@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full viewport height */
+    margin: 0; /* Remove default margin */
+    text-align: center;
+    font-family: Arial, sans-serif; /* Optional: Set a font */
+    background-image: url('https://wallpapers.com/images/featured/paris-background-gxk9jtt76kbjdt1o.jpg');
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat;
+}
+#page1{
+    border: 2px solid #000;
+    border-radius: 10px;
+    padding : 20px;
+    background-color: rgba(255, 255, 255, 0.5);
+}
